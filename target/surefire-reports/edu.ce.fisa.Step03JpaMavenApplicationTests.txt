@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.ce.fisa.Step03JpaMavenApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.247 s -- in edu.ce.fisa.Step03JpaMavenApplicationTests
